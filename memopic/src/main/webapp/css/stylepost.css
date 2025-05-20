@@ -1,0 +1,51 @@
+body {
+  font-family: Poppins;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+  background-color: rgb(24, 24, 24);
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+input {
+  font-family: Poppins;
+  height: 50px;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+
+textarea{
+    font-family: Poppins;
+    margin-top: -12px;
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.buttonGroup{
+  width: 100%;
+  display: flex;
+  justify-content: flex-end; /* Align to the right */
+  gap: 10px; /* Space between buttons */
+  margin-top: 10px;
+}
+
+button {
+  font-family: Poppins;
+  padding: 10px 16px;
+  background-color: #3b12de;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
+}

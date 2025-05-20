@@ -1,0 +1,14 @@
+com\mycompany\memopic\LogoutServlet.class
+com\mycompany\memopic\Memopic.class
+com\mycompany\memopic\User.class
+com\mycompany\memopic\MemoEntry.class
+com\mycompany\memopic\DatabaseManager.class
+com\mycompany\memopic\MemoImpl.class
+com\mycompany\memopic\LoginServlet.class
+com\mycompany\memopic\RegisterServlet.class
+com\mycompany\memopic\ViewPostsServlet.class
+com\mycompany\memopic\SavePostServlet.class
+com\mycompany\memopic\Account.class
+com\mycompany\memopic\MemoActions.class
+com\mycompany\memopic\DatabaseInitListener.class
+com\mycompany\memopic\Post.class
